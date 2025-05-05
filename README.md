@@ -1,4 +1,3 @@
-```markdown
 # USDT-TRC20 Payment Receiver
 
 A Python script for generating Tron (TRX) addresses, checking USDT-TRC20 balances, and monitoring incoming USDT-TRC20 payments using the TronGrid API.
