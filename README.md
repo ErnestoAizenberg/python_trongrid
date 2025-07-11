@@ -19,8 +19,8 @@ A Python script for generating Tron (TRX) addresses, checking USDT-TRC20 balance
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/usdt-trc20-receiver.git
-cd usdt-trc20-receiver
+git clone https://github.com/ErnestoAizenberg/python_trongrid.git
+cd python_trongrid
 ```
 
 2. Install dependencies:
